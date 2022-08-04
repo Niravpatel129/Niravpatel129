@@ -7,4 +7,4 @@
 - 📫 How to reach me: email me at niravpatelp129@gmail.com
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Niravpatel129&label=Profile%20views&color=0e75b6&style=flat" alt="Niravpatel129" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Niravpatel129&label=Profile%20views&color=0e75b6" alt="Niravpatel129" /> </p>
