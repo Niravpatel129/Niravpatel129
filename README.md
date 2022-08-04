@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Niravpatel129&label=Profile%20views&color=0e75b6&style=flat" alt="btbishop93" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Niravpatel129&label=Profile%20views&color=0e75b6&style=flat" alt="Niravpatel129" /> </p>
 
 - 🔭 I’m currently working on BMO Contentful Migration Project
 - 🌱 I’m currently learning NextJS and Gatsby
