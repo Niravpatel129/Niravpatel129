@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BMO Contentful Migration Project
+- 🔭 I’m currently working on learning some new technologies 
 - 🌱 I’m currently learning NextJS and Gatsby
 - 👯 I’m looking to collaborate on game development!
 - 💬 Ask me about game development, latest technologies and everything React.
