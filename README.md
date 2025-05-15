@@ -6,8 +6,6 @@
 - 💬 Ask me about game development, latest technologies and everything React.
 - 📫 How to reach me: email me at niravpatelp129@gmail.com
 
-Apps:
-
 https://boloprint.com  
 https://gamercoach.gg  
 https://linktr.ee/quizarena   
