@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning some new technologies 
+- 🔭 I’m currently working on learning some new technologies.
 - 🌱 I’m currently learning RAG and Langchain.
 - 👯 I’m looking to collaborate on game development!
 - 💬 Ask me about game development, latest technologies and everything React.
